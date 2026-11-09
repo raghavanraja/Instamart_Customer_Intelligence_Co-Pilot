@@ -1,0 +1,8 @@
+{
+  "tickets_processed": 164,
+  "human_review": 29,
+  "fraud_routes": 31,
+  "pii_redaction": "email and Indian mobile number patterns redacted before mock LLM call",
+  "max_ticket_chars": 1800,
+  "max_retries": 3
+}

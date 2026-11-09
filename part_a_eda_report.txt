@@ -1,0 +1,31 @@
+city_revenue
+     city  orders   revenue
+Hyderabad    1794 512679.60
+Bengaluru    1826 500115.65
+    Delhi    1991 489229.00
+     Pune    1911 480627.40
+   Mumbai    1544 461487.05
+  Chennai    1636 448805.15
+
+category_revenue
+     category  lines    revenue
+  Electronics    991 1176587.45
+      Grocery   2976  590685.75
+        Dairy   3005  514041.55
+       Snacks   3168  448069.25
+Personal Care    562  163559.85
+
+monthly_trend
+  month  orders   revenue
+2025-04    1792 516157.45
+2025-05    1832 469277.05
+2025-06    1716 516028.25
+2025-07    1774 476556.10
+2025-08    1831 481257.30
+2025-09    1757 433667.70
+
+status_counts
+   status  count
+cancelled   1169
+completed  10702
+  pending    326

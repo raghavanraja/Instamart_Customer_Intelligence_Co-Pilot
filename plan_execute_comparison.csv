@@ -1,0 +1,8 @@
+scenario,plan_execute_result
+Please check refund eligibility for order ORD-102285.,DENIED_NOT_LATE
+Please check refund eligibility for order ORD-103396.,ELIGIBLE_REFUND
+Please check refund eligibility for order ORD-106880.,ESCALATE_HUMAN
+Please check refund eligibility for order ORD-102006.,DENIED_CANCELLED
+Please check refund eligibility for order ORD-999999.,NOT_FOUND
+Please check refund eligibility but I do not have the order identifier.,NOT_FOUND
+[LOOP] Please keep searching until you find a refund policy.,NOT_FOUND

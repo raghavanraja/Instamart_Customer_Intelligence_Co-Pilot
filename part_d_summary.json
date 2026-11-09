@@ -1,0 +1,10 @@
+{
+  "rag_chunks_overlap_10": 17,
+  "rag_eval_overlap_0_accuracy": 0.7857142857142857,
+  "rag_eval_overlap_10_accuracy": 1.0,
+  "agent_scenarios": 7,
+  "tool_step_limit": 6,
+  "request_date_assumption": "Synthetic support request is modeled as one day after order timestamp to test the 7-day policy guardrail.",
+  "refund_ledger_note": "Simulation only; no payment or refund is actually executed.",
+  "checkpoint_file": "state/agent_checkpoint.json"
+}
